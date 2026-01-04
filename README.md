@@ -1,16 +1,45 @@
-## Hi there 👋
+# 🚀 Android Developer Learning Journey
 
-<!--
-**Relana025/Relana025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm learning Android development and building apps along the way. This repository showcases my learning projects and experiments.
 
-Here are some ideas to get you started:
+## 🎯 Learning Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Master Kotlin programming
+- Build modern Android apps with Jetpack Compose
+- Learn MVVM architecture and Clean Architecture patterns
+- Work with REST APIs and local databases
+- Apply Material Design principles
+
+## 🛠️ Tech Stack
+
+**Languages:** Kotlin, Java  
+**UI:** Jetpack Compose, XML Layouts  
+**Architecture:** MVVM, Repository Pattern  
+**Database:** Room, SQLite  
+**Networking:** Retrofit, OkHttp  
+**DI:** Hilt, Koin  
+**Tools:** Android Studio, Git
+
+## 📚 Learning Progress
+
+- [x] Kotlin Fundamentals
+- [x] Android Basics (Activity, Fragment, Intent)
+- [ ] Jetpack Components (ViewModel, LiveData, Navigation)
+- [ ] RecyclerView & Adapters
+- [ ] REST API Integration
+- [ ] Room Database
+- [ ] Jetpack Compose
+- [ ] Coroutines & Flow
+
+## 💼 Projects
+
+Coming soon! This repo will include various learning projects like calculators, to-do lists, news apps, and more.
+
+## 📫 Connect
+
+- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: your.email@example.com
+
+---
+
+⭐ Star this repo if you're also learning Android Development!
