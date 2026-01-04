@@ -37,8 +37,8 @@ Coming soon! This repo will include various learning projects like calculators, 
 
 ## 📫 Connect
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: 
+- Email: 
 
 ---
 
