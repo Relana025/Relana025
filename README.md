@@ -16,7 +16,7 @@ Hi! I'm learning Android development and building apps along the way. This repos
 **UI:** Tailwindcss  
 **Architecture:** MVVM, Repository Pattern  
 **Database:** Mariadb
-**Networking:**  
+**Networking:** -,
 **DI:** Hilt,
 **Tools:** Android Studio, Git
 
