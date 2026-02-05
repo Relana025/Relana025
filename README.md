@@ -13,11 +13,11 @@ Hi! I'm learning Android development and building apps along the way. This repos
 ## 🛠️ Tech Stack
 
 **Languages:** Kotlin, Java  
-**UI:** Jetpack Compose, XML Layouts  
+**UI:** Tailwindcss  
 **Architecture:** MVVM, Repository Pattern  
-**Database:** Room, SQLite  
-**Networking:** Retrofit, OkHttp  
-**DI:** Hilt, Koin  
+**Database:** Mariadb
+**Networking:**  
+**DI:** Hilt,
 **Tools:** Android Studio, Git
 
 ## 📚 Learning Progress
